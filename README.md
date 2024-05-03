@@ -1,0 +1,2 @@
+This is my first project about some of my favourite recipes.
+It is mainly used to demonstrate my knowledge of HTML,git and github, including how to create a heading, how to embed a hypertext and so on.
