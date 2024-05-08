@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading {
+    background-color: blue;
+    color: bisque;
+}
+
+#first {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#second {
+    color: pink;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.nodescriptions,
+.noingredients {
+    font-size: 40px;
+}
+
+.nosteps {
+    background-color: red;
+    color: white;
+}
+div {
+    display: block;
+    padding: 8px;
+    margin: 10px;
+}
